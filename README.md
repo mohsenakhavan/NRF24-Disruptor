@@ -36,7 +36,7 @@ The **ESP32-S3** microcontroller handles signal modulation and allows switching 
 4. The device immediately starts transmitting interference signals.
 
 ## **Image References**
-| ![Image 1](https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e) | ![Image 2](https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b) | ![Image 3](https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe) |
+| https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e | https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b | https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe |
 |----------------------------------|----------------------------------|----------------------------------|
 
 ## **Legal Disclaimer**
