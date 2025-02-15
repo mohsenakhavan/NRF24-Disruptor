@@ -36,7 +36,7 @@ The **ESP32-S3** microcontroller handles signal modulation and allows switching 
 4. The device immediately starts transmitting interference signals.
 
 ## **Image References**
-| https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e | https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b | https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe |
+| ![Device Front](https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e) | ![Device Front](https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b) | ![Device Front](https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe) |
 |----------------------------------|----------------------------------|----------------------------------|
 
 ## **Legal Disclaimer**
@@ -75,7 +75,7 @@ This project is intended **only for educational and research purposes**. Using R
 4. دستگاه بلافاصله ارسال سیگنال‌های اختلال‌زا را آغاز خواهد کرد.
 
 ## **تصاویر پروژه**
-| ![تصویر 1](images/device_front.jpg) | ![تصویر 2](images/device_side.jpg) | ![تصویر 3](images/device_back.jpg) |
+| ![Device Front](https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e) | ![Device Front](https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b) | ![Device Front](https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe) |
 |----------------------------------|----------------------------------|----------------------------------|
 
 ## **هشدار قانونی**
@@ -83,6 +83,4 @@ This project is intended **only for educational and research purposes**. Using R
 
 
 
-![20250215_223138](https://github.com/user-attachments/assets/0e18b74e-823e-46de-94e2-5bc520fa959e)
-![20250215_223945](https://github.com/user-attachments/assets/ae1a8e72-0811-48b9-9404-68dd4c26b61b)
-![20250215_224053](https://github.com/user-attachments/assets/141f267c-a87e-4bc1-b3f5-97a996c411fe)
+
